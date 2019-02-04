@@ -1,3 +1,4 @@
+Here I added some text directly in github
 some text
 some text
 some more text
